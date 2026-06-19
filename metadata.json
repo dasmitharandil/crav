@@ -1,0 +1,6 @@
+{
+  "name": "CRAV",
+  "description": "Your home for easy, delicious meal prep recipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
